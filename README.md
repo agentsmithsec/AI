@@ -1,4 +1,4 @@
-# Project: build, attack and defend a mini AI chatbot Security Lab
+# Project: Build, Attack and Defend a mini AI chatbot Security Lab
 
 ## Goal
 - Build an AI chatbot using OpenAI API. **Purely for Testing & Learning Purposes only**
