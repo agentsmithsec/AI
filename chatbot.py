@@ -9,6 +9,7 @@ from config import OPENAI_API_KEY, WEATHER_API_KEY
 # Load OpenAI API key
 load_dotenv()
 
+#uses openrouter
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=OPENAI_API_KEY
