@@ -1,4 +1,4 @@
-#Purely for Testing & Learning Purposes #
+Testing & Learning Purposes
 
 # Project: Build, Attack and Defend a mini AI chatbot Security Lab
 
