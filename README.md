@@ -5,11 +5,11 @@ Testing & Learning Purposes
 # Goal
 1) Building the Chatbot: Create a simple AI chatbot using a model like GPT-3, OpenRouter, or any other available AI API.
 2) Simulating Attacks: Identify potential vulnerabilities and simulate attacks (SQL injection, DoS, XSS, etc.), trick in into revealing system prompts , leaking data..etc)
-   # Test Input:perform attack simulations like SQL injections, sensitive data requests, and command injections.
+   #Test Input:perform attack simulations like SQL injections, sensitive data requests, and command injections.
 3) Defending the Chatbot: Implement defense mechanisms (basic input filtering,output monitoring and ensure the chatbot is secure against these attacks.
-   # Defend:The bot should sanitize inputs and block dangerous actions. The responses should never disclose sensitive information.
+   #Defend:The bot should sanitize inputs and block dangerous actions. The responses should never disclose sensitive information.
 
-# FYI/A- API's are not Free** from OpenAI, please use other models eg: OpenRouter,Claude ...etc* 
+#FYI/A- API's are not Free** from OpenAI, please use other models eg: OpenRouter,Claude ...etc* 
 you will get error when you run chatbot.py due to api calls limited for free users else use paid version.
 
 # Use APIs for more dynamic responses:
