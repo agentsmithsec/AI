@@ -25,9 +25,10 @@ If you want the bot to respond with more real-time information, you can integrat
 5. Run: python chatbot.py` (for basic bot input validation)  <---update your logic as you wish
 6. Run: python attack_tests.py` (to test attacks how they chatbot responds to malicious inputs)
 7. Run: python defense.py` (to test how chatbot responds to input filtering to prevent attacks to block harmful inputs and only allow safe interactions.)
-## use sample PDF attached scenario for your input validation and defense response.
 
-## What I Learned
+#use sample PDF attached scenario for your input validation and defense response.
+
+# What I Learned
 - Prompt injection and model jailbreaking are real risks to the WORLD.
 - Filtering user input can prevent common attacks, more work to be done in this space.
 - Monitoring output is critical for AI system safety.
